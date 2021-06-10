@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Lam0Rka/lab444.svg?branch=main)](https://travis-ci.com/Lam0Rka/lab444)
 ## Tutorial
 
 ```sh
