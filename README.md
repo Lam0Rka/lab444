@@ -87,3 +87,4 @@ $ travis branches
 $ travis history
 $ travis show
 ```
+Добавление значков
